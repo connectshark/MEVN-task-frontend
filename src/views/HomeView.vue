@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main class="container mx-auto bg-primary/10 text-center bg-[url('./assets/img/bg.jpg')]">
+  <main class="container mx-auto bg-primary/10 text-center bg-teal-50 py-20">
     <h2 class=" text-2xl leading-loose mb-4">Hi 歡迎來到MEVN前端專案</h2>
     <p>這是一個可以任務管理系統,使用者創建帳戶後即可創建任務,修改任務,刪除任務or刪除帳戶</p>
     <p class=" divide-x-4">

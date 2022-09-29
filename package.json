@@ -1,5 +1,5 @@
 {
-  "name": "MEVN-task-frontend",
+  "name": "MEVN-todolist-frontend",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

@@ -17,6 +17,6 @@ export default defineConfig({
     }
   },
   base: process.env.NODE_ENV === 'production'
-    ? '/MEVN-task-frontend/'
+    ? '/MEVN-todolist-frontend/'
     : '/'
 })
